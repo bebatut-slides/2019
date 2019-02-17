@@ -11,6 +11,7 @@ layout: base
 - Duration: {{ page.talk.duration }}
 - Event: {% if page.event.link %} [{{ page.event.name }}]({{ page.event.link }}){% else %}{{ page.event.name}}{% endif %} 
 - Location: {{ page.event.location }}
+- Source: [<i class="fa fa-github"></i>]({{ site.github.repository_url }}/tree/master{{ page.dir }})
     {% endif %}
 {% endfor %}
 
