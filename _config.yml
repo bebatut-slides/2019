@@ -1,9 +1,28 @@
 title: Slides for 2019 talks - Bérénice Batut
 email: berenice.batut@gmail.com
-description: >
-  This repository served the slides for my talks of 2019
 repository: bebatut-slides/2019
 twitter: bebatut
 linkedin: berenicebatut
 gitter: bebatut
 orcid: 0000-0001-9852-1987
+scholar: 9sCBSXkAAAAJ
+
+main:
+  url: http://research.bebatut.fr/
+  title: Bérénice Batut
+  pages:
+    - 
+      url: http://research.bebatut.fr/
+      title: Home
+    - 
+      url: http://research.bebatut.fr/training/
+      title: Training
+    -
+      url: http://research.bebatut.fr/publications/
+      title: Publication
+    -
+      url: http://talks.bebatut.fr
+      title: Talks
+    -
+      url: https://github.com/bebatut/cv/
+      title: CV

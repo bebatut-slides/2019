@@ -1,18 +1,5 @@
 ---
-layout: base
+layout: index
+title: Talks in 2019
+image: /assets/images/talks.jpg
 ---
-
-# Welcome!
-
-
-{% for page in site.pages %}
-    {% if page.event %}
-{{ page.event.date }}: [**{{ page.talk.title }}**]({{ page.url }})
-- Duration: {{ page.talk.duration }}
-- Event: {% if page.event.link %} [{{ page.event.name }}]({{ page.event.link }}){% else %}{{ page.event.name}}{% endif %} 
-- Location: {{ page.event.location }}
-- Source: [<i class="fa fa-github"></i>]({{ site.github.repository_url }}/tree/master{{ page.dir }})
-    {% endif %}
-{% endfor %}
-
-
