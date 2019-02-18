@@ -25,7 +25,7 @@ layout: base
             </td>
             <td>
                 <span class="text-nowrap">
-                    <h5><a href="{{ page.url }}">{{ page.talk.title | escape }}</a></h5>
+                    <h5><a href="{{ site.baseurl}}/{{ page.url }}">{{ page.talk.title | escape }}</a></h5>
                     {% if page.talk.summary %}
                         <div>{{ event.excerpt }}</div>
                     {% endif %}
