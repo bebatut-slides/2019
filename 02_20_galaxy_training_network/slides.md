@@ -1,21 +1,11 @@
-Hello! I am [Bérénice](http://bebatut.fr/), the author of following slides.
-
-<small>
-This slide does not exist in original deck. It is useful if you are not familiar with [Reveal.JS](https://github.com/hakimel/reveal.js), used here.
-</small>
-
-The easiest way to navigate this slide deck is by hitting `[space]`on your keyboard.
-
----
-
-### Community-Driven Training <br>by the Galaxy Training Network
+### The training effort of the Galaxy community
 
 ![Cover art](images/cover_art.png) <!-- .element width="60%" -->
 
-Bérénice Batut
+Bérénice Batut - University of Freiburg, de.NBI (ELIXIR-DE)
 
 <small>
-INRA - September 2018
+ELIXIR Bioinformatics Training Tools Workshop - February 2019
 </small>
 
 ---
@@ -35,32 +25,31 @@ INRA - September 2018
 - Web interface for numerous bioinformatics tools
 - No issue with computer configuration during training
 
----
-### Online training material covering <br>many current research topics
+----
 
-![Screenshot of the website](images/website_screenshot.png) <!-- .element width="70%" -->
+![GTN](images/gtn_explanation.svg) <!-- .element width="100%" -->
+
+---
+### Galaxy Training materials
+
+![Training material website](images/training_website.png) <!-- .element width="70%" -->
 
 https://training.galaxyproject.org
 
 <small>
-One website, aggregating training material covering many current research topics
+Online training material covering many current research topics
 </small>
+
+Note:
+
+17 topics
 
 ----
 ### Interactive learning via hands-on tutorials <br>built around a "research story"
 
-![Screenshot with 2 web-browsers open side-by-side: one pointed at the current tutorial and the other at a Galaxy instance](images/interactive_hands_on.png) <!-- .element width="100%" -->
+![Screenshot with 2 web-browsers open side-by-side: one pointed at the current tutorial and the other at a Galaxy instance](images/interactive_hands_on.svg) <!-- .element width="100%" -->
 
-<small>
-Usable by individual users & instructors
-</small>
-
-----
-### Developed and maintained <br>by the community on GitHub
-
-![Screenshot of github repo](images/github_screenshot.png) <!-- .element width="75%" -->
-
-https://github.com/galaxyproject/training-material
+Usable for effective training for individual users & instructors
 
 Note:
 
@@ -77,139 +66,126 @@ Metadata to help trainees and instructors to keep track of the training goads
 - Questions: Regular assessments with question boxes
 
 ----
-### An effective (FAIR) training infrastructure
+### Available topics and tutorials
 
-![Infrastructure](images/infra_4.png) <!-- .element width="90%" -->
+![](images/topics_tutorials.svg) <!-- .element width="100%" -->
+
+----
+### Used during workshops
+
+![](images/workshops_pictures.svg) <!-- .element width="100%" -->
+
+Freiburg Galaxy Team: 
+- Bi-annual one week workshop on HTS data analysis
+- Extra workshops everywhere
+
+----
+### Used by individuals online, with nice feedback
+
+![](images/feedbacks.svg) <!-- .element width="90%" -->
+
+----
+### Quite some visitors on the website, <br>from everywhere
+
+![](images/google_analytics.svg) <!-- .element width="100%" -->
+
+<small>Google Analytics stats</small>
 
 ---
-### A fruitful 2nd year: <br>more and better content
+### How and where to run these tutorials?
 
-![Number of topics/tutorials](images/repo_content_stat_plot.png)<!-- .element width="70%" -->
-
-----
-### New + restructed topics
-
-![New topics](images/topics.png)<!-- .element width="80%" -->
+![](images/workflow_data_instances.png) <!-- .element width="100%" -->
 
 ----
-### New + restructed tutorials
+### Ready to use for instructors
 
-![Changes in content](images/tutorials.png)
+![](images/instructor_training.png) <!-- .element width="80%" -->
 
-Note:
+- Ready to use training material
+- Training Handbook and philosophies
+- Mentoring / discussions
 
-Some tutorials has been restructured, improved or updated to use the state of the art tools
+<small>[https://training.galaxyproject.org/topics/instructors/](https://training.galaxyproject.org/topics/instructors/)</small>
 
 ----
-### Development of tutorials for contributing
+### useGalaxy.eu
 
-![Changes in content](images/contributing_topic.png)<!-- .element width="90%" -->
+The European Galaxy instance
+
+![](images/usegalaxy-eu.png) <!-- .element width="100%" -->
+
+[https://usegalaxy.eu/](https://usegalaxy.eu/)
+
+----
+### useGalaxy.eu
+
+Open to everyone since March 2018
+
+![useGalaxy.eu user statistics](images/usegalaxy-eu-user-statistics.svg) <!-- .element width="100%" -->
+
+<small>[https://stats.usegalaxy.eu](https://stats.usegalaxy.eu)</small>
+
+----
+### Automatic workflow testing for tutorials
+
+![](images/workflow_testing.png) <!-- .element width="80%" -->
+
+<small>[https://github.com/usegalaxy-eu/workflow-testing](https://github.com/usegalaxy-eu/workflow-testing)</small>
+
+----
+### Training Infrastructure as a Service (TIaaS)
+
+![](images/tiaas.svg) <!-- .element width="85%" -->
+
+<small>[https://galaxyproject.eu/tiass](https://galaxyproject.eu/tiass)</small>
+
+----
+### Training Infrastructure as a Service (TIaaS) 
+
+![](images/tiaas_stats.png) <!-- .element width="100%" -->
 
 ---
-### A fruitful last year: <br>more technical support for training
+### Made by and for the community
 
-![Changes in content](images/tech_support_prop_plot.png)<!-- .element width="70%" -->
-
-----
-### Galaxy Tour Builder
-
-A web extension to develop interactive tours
-
-![Tour Builder](images/tour_builder.gif) <!-- .element width="85%" -->
-
-https://github.com/TailorDev/galaxy-tourbuilder
+![](images/community.svg) <!-- .element width="100%" -->
 
 ----
-### Annotation with public Galaxy instances
+### Ongoing efforts to ease the contributions
 
-![Possible public Galaxy instances](images/instance_annotation.png) <!-- .element width="100%" -->
+![](images/infra.png) <!-- .element width="100%" -->
 
 ----
-### Training Infrastructure as a Service (TIaaS) <br>on [usegalaxy.eu](usegalaxy.eu)
+### Community events
 
-![TIaaS explanation](images/tiaas.png) <!-- .element width="80%" -->
+![](images/cofests.png) <!-- .element width="100%" -->
+
+Next one: Tomorrow!
 
 ---
-### A fruitful 2nd year: <br>am improved website
+### The training effort of the Galaxy community
 
-![Website reshape](images/website_reshape.png) <!-- .element width="90%" -->
-
-https://training.galaxyproject.org
-
-Note:
-- Bio.schemas support
-
-----
-### Tags, expandable boxes and co
-
-![More for website](images/more_for_website.png) <!-- .element width="100%" -->
-
-----
-### FAQ
-
-![FAQ page](images/faq.png)<!-- .element width="65%" -->
-
-https://training.galaxyproject.org/faq
-
----
-### A fruitful 2nd year: <br>a great article
-
-![Screenshot of biorxiv repo](images/article.png) <!-- .element width="80%" -->
-
-<i class="fa fa-award"></i> Released this morning!
-
-[Community-driven data analysis training for biology](https://bit.ly/2lEvhJW)
-
----
-<!-- .slide: data-background="images/contributors.png" data-state="dim-background-2"-->
-## A fruitful 2nd year: <br>an AWESOME community!
-
-Note:
-- > 70 contributors
-- + >30 compared to last year
-
-----
-### Hall of fame
-
-![Hall of fame](images/hall_of_fame.png) <!-- .element width="75%" -->
-
-https://training.galaxyproject.org/hall-of-fame
-
-----
-### Contribution Fests
-
-![Past Contribution Fests](images/past_contribution_fest.png)
-
----
-## A Similarly Fruitful Future?
-
-- For Users
-    - More content!
-    - Topic-specific curriculum
-    - Internationalization
-- For Instructors
-    - Mentorship
-    - Train the trainers (ELIXIR and The Carpentries)?
-- For Contributors
-    - Improvement of the contribution experience
-    - Per-tutorial article?
-
-----
-## A Similarly Fruitful Future?
-
-More Contribution Fests!
-   
-![Next Contribution Fests](images/next_contribution_fests.png)
+![](images/summary.svg) <!-- .element width="100%" -->
 
 ---
 ## Thank you!
 
+![](images/hall_of_fame.png) <!-- .element width="100%" -->
 
-<i class="ai ai-biorxiv"></i> [Community-driven data analysis training for biology](https://www.biorxiv.org/content/early/2017/11/29/225680)<br><br>
-
-<i class="fa fa-globe"></i> [training.galaxyproject.org](http://training.galaxyproject.org)<br><br>
-
-<i class="fa fa-github"></i> [github.com/galaxyproject/training-material](http://github.com/galaxyproject/training-material)<br><br>
+<div id="left">
+<section style="text-align: right; margin-right: 2em;">
+![](images/qr-gtn-darkblue.png) <!-- .element width="50%" -->
 </section>
+</div>
 
+<div id="right">
+<section style="text-align: left;">
+<i class="fab fa-github"></i> [github.com/galaxyproject/training-material](http://github.com/galaxyproject/training-material)
 
+![](images/sponsors.png) <!-- .element width="100%" -->
+</section>
+</div>
+
+---
+### The training effort of the Galaxy community
+
+![](images/summary.svg) <!-- .element width="100%" -->
