@@ -66,6 +66,13 @@ Metadata to help trainees and instructors to keep track of the training goads
 - Questions: Regular assessments with question boxes
 
 ----
+### Quite some visitors on the website, <br>from everywhere
+
+![](images/google_analytics.svg) <!-- .element width="100%" -->
+
+<small>Google Analytics stats</small>
+
+----
 ### Used by individuals online, with nice feedback
 
 ![](images/feedbacks.svg) <!-- .element width="90%" -->
@@ -94,13 +101,6 @@ Freiburg Galaxy Team:
 ### Available topics and tutorials
 
 ![](images/topics_tutorials.svg) <!-- .element width="100%" -->
-
-----
-### Quite some visitors on the website, <br>from everywhere
-
-![](images/google_analytics.svg) <!-- .element width="100%" -->
-
-<small>Google Analytics stats</small>
 
 ---
 ### Made by and for the community
