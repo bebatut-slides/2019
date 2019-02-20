@@ -66,9 +66,9 @@ Metadata to help trainees and instructors to keep track of the training goads
 - Questions: Regular assessments with question boxes
 
 ----
-### Available topics and tutorials
+### Used by individuals online, with nice feedback
 
-![](images/topics_tutorials.svg) <!-- .element width="100%" -->
+![](images/feedbacks.svg) <!-- .element width="90%" -->
 
 ----
 ### Used during workshops
@@ -91,9 +91,9 @@ Freiburg Galaxy Team:
 <small>[https://training.galaxyproject.org/topics/instructors/](https://training.galaxyproject.org/topics/instructors/)</small>
 
 ----
-### Used by individuals online, with nice feedback
+### Available topics and tutorials
 
-![](images/feedbacks.svg) <!-- .element width="90%" -->
+![](images/topics_tutorials.svg) <!-- .element width="100%" -->
 
 ----
 ### Quite some visitors on the website, <br>from everywhere
