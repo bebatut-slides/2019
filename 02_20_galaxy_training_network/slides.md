@@ -80,6 +80,17 @@ Freiburg Galaxy Team:
 - Extra workshops everywhere
 
 ----
+### Ready to use for instructors
+
+![](images/instructor_training.png) <!-- .element width="80%" -->
+
+- Ready to use training material
+- Training Handbook and philosophies
+- Mentoring / discussions
+
+<small>[https://training.galaxyproject.org/topics/instructors/](https://training.galaxyproject.org/topics/instructors/)</small>
+
+----
 ### Used by individuals online, with nice feedback
 
 ![](images/feedbacks.svg) <!-- .element width="90%" -->
@@ -92,20 +103,26 @@ Freiburg Galaxy Team:
 <small>Google Analytics stats</small>
 
 ---
+### Made by and for the community
+
+![](images/community.svg) <!-- .element width="100%" -->
+
+----
+### Ongoing efforts to ease the contributions
+
+![](images/infra.png) <!-- .element width="100%" -->
+
+----
+### Community events
+
+![](images/cofests.png) <!-- .element width="100%" -->
+
+Next one: Tomorrow!
+
+---
 ### How and where to run these tutorials?
 
 ![](images/workflow_data_instances.png) <!-- .element width="100%" -->
-
-----
-### Ready to use for instructors
-
-![](images/instructor_training.png) <!-- .element width="80%" -->
-
-- Ready to use training material
-- Training Handbook and philosophies
-- Mentoring / discussions
-
-<small>[https://training.galaxyproject.org/topics/instructors/](https://training.galaxyproject.org/topics/instructors/)</small>
 
 ----
 ### useGalaxy.eu
@@ -143,23 +160,6 @@ Open to everyone since March 2018
 ### Training Infrastructure as a Service (TIaaS) 
 
 ![](images/tiaas_stats.png) <!-- .element width="100%" -->
-
----
-### Made by and for the community
-
-![](images/community.svg) <!-- .element width="100%" -->
-
-----
-### Ongoing efforts to ease the contributions
-
-![](images/infra.png) <!-- .element width="100%" -->
-
-----
-### Community events
-
-![](images/cofests.png) <!-- .element width="100%" -->
-
-Next one: Tomorrow!
 
 ---
 ### The training effort of the Galaxy community
