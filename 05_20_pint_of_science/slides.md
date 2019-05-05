@@ -68,13 +68,26 @@ Do you think we have more micro-organism cells or human cells in our own body?
 ![](images/beer_microbiome.svg) <!-- .element width="100%" -->
 
 ---
+### How to identify micro-organisms?
 
-How to identify organisms somewhere?
+![](images/timeline_1.png) <!-- .element width="100%" -->
+
+Note:
 
 - Historically, cultivation
 - only 10% can be cultivated
 
-- Other solution? What do you in common with other living organisms?
+----
+### More than 90% of micro-organisms are unculturable
+
+![](images/unculturable.jpg) <!-- .element width="80%" -->
+
+----
+### Any other solution?
+
+- How can we compare micro-organisms?
+- What do you have in common with any other living organisms?
+- What does make you different from your neighbor?
 
 ---
 
@@ -94,7 +107,11 @@ Sequencing
 - easy to do now and cheaper
 
 ---
+### How to identify micro-organisms?
 
+![](images/timeline_2.png) <!-- .element width="100%" -->
+
+----
 Sequencing + microbiota
 - beer
     - BeerDeCoded in Lausanne
