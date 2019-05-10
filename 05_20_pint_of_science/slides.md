@@ -91,10 +91,17 @@ Note:
 
 ---
 
+![](images/all_live_DNA.svg) <!-- .element width="100%" -->
+---
+
 DNA
 - explain what is DNA
 - DNA and phylogenetic tree
 - can be used to identify all organisms somewhere (beer)
+
+---
+
+![](images/190312-Genomics_HealthCare-03.png) <!-- .element width="100%" -->
 
 ---
 
