@@ -20,12 +20,43 @@ Need to change it probably
 
 ----
 
-### Do you know where we can find micro-organisms?
+### Where can we find micro-organisms?
 
-1. beer
-2. foetus
-3. soil
-4. vending machine
+![](images/where_microorganisms_1.png)
+
+Note:
+
+Make them vote for each image if there is micro-organisms
+
+----
+
+### Where can we find micro-organisms?
+
+![](images/where_microorganisms_2.png)
+
+----
+
+### Where can we find micro-organisms?
+
+![](images/where_microorganisms_3.png)
+
+----
+
+### Where can we find micro-organisms?
+
+![](images/where_microorganisms_4.png)
+
+----
+
+### Where can we find micro-organisms?
+
+![](images/where_microorganisms_5.png)
+
+----
+
+### Where can we find micro-organisms?
+
+![](images/where_microorganisms_6.png)</div>
 
 Note:
 
@@ -119,22 +150,68 @@ Sequencing
 ![](images/timeline_2.png) <!-- .element width="100%" -->
 
 ----
-Sequencing + microbiota
-- beer
-    - BeerDeCoded in Lausanne
-    - Other publications??? silk road
+### Which micro-organisms inside beers?
+
+!["Beer Decoded"](images/beerdecoded_results.png) <!-- .element width="75%"-->
 
 ---
 
-Understand science + biology
-- Fake news about sequencing, microbiota, etc (scientific police, etc)
+### Sequencing and microbiota are part of our life
+
+![](images/sequencing_microbiota_headlines.svg) <!-- .element width="80%"-->
+
+----
+
+### Make biology accessible to the public
+
+science outreach
+
+----
+
+### ![](images/streetsciencecommunity_logo.png) <!-- .element width="50%"-->
+
+![](images/streetsciencecommunity_mindset.png) <!-- .element width="100%"-->
+
+[https://streetscience.community](https://streetscience.community)
+
+---
+<!-- .slide: data-background-color="#feed00" -->
+### BeerDeCoded
+
+Exploring the beer micro-organisms with everybody!
+
+!["Beer Decoded"](images/beerdecoded_mantra.png) <!-- .element width="70%" -->
+
+Note: 
+
+BeerDeCoded in Lausanne
+
+----
+<!-- .slide: data-background-color="#ffe92f" -->
+### BeerDeCoded
+
+!["Beer Decoded"](images/beerdecoded_workflow.svg)
+
+----
+### BeerDEcoded in Freiburg
+
+!["Beer Decoded"](images/streetsciencecommunity_beerdecoded.svg)
+
+Workshops for schools and citizens
+
+[https://streetscience.community/projects/beerdecoded/](https://streetscience.community/projects/beerdecoded/)
 
 ---
 
-Educate
 
----
+## Thank you
 
-StreetScienceCommunity
-- BeerDEcoded
-- No ethical issue
+Wants to join?
+
+![](images/streetsciencecommunity_logo.png) <!-- .element width="70%" -->
+
+<i class="fas fa-globe"></i> [https://streetscience.community](https://streetscience.community)
+
+<i class="fas fa-at"></i> [hello@streetscience.community](mailto:hello@streetscience.community)
+
+<i class="fas fa-envelope"></i> [Mailing list](https://groups.google.com/forum/#!forum/streetsciencecommunity)
