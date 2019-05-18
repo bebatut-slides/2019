@@ -121,28 +121,63 @@ Note:
 - What does make you different from your neighbor?
 
 ---
-
+### DNA the blueprint of life
 ![](images/all_live_DNA.svg) <!-- .element width="100%" -->
+
+
+
+Note:
+
+- DNA is the common element between organisms. 
+- But how can you determine it's difference? 
 ---
+### What is DNA?
+![](images/DNA_ATGC.svg) <!-- .element width="100%" -->
 
-DNA
-- explain what is DNA
-- DNA and phylogenetic tree
-- can be used to identify all organisms somewhere (beer)
+Note:
+
+- alphabets
+- ATCG small moleculs
+- consits of atoms
+- Atoms are social
+- How can we now read the DNA?
+ 
+---
+Do you remenber?
+![](images/scale.png) <!-- .element width="90%" -->
+
+Source: http://sitn.hms.harvard.edu/flash/2013/pandoraviruses-relics-of-a-hidden-domain-of-life/attachment/joe3/
+
 
 ---
+## Sequencing:
 
+![](images/sanger_sequencing.jpg) <!-- .element width="60%" -->
+
+Source: https://lerninhalte.blogspot.com/2013/04/dna-sequenzierung-kettenabbruchmethode.html
+----
+Sanger: Very accurate but not feasable whole genones!
+----
+Do you konw of any genome or sequencing projects?
+----
+The human genome project:
+
+![](images/timelineHGP_image2.jpg) <!-- .element width="60%" -->
+----
+
+Huge development:
+Next Generation Sequencing (NGS) or
+High Throughput Sequencing (HTS)
+
+----
 ![](images/190312-Genomics_HealthCare-03.png) <!-- .element width="100%" -->
+----
 
----
+Efford requierd to sequence a human genome
 
-How can we know the DNA of something/someone?
-
-Sequencing
-- explain what is sequencing
-- do they know some sequencing projects? companies?
-- expand what you can investigate
-- easy to do now and cheaper
+----
+Nanopore sequencing:
+?
 
 ---
 ### How to identify micro-organisms?
