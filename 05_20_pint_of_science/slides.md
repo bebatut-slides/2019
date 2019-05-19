@@ -122,7 +122,7 @@ Note:
 
 ---
 ### DNA the blueprint of life
-![](images/all_live_DNA.svg) <!-- .element width="100%" -->
+![](images/all_live_DNA.svg) <!-- .element width="70%" -->
 
 
 
@@ -132,7 +132,8 @@ Note:
 - But how can you determine it's difference? 
 ---
 ### What is DNA?
-![](images/DNA_ATGC.svg) <!-- .element width="100%" -->
+
+![](images/DNA_ATGC.svg) <!-- .element width="80%" -->
 
 Note:
 
@@ -144,7 +145,7 @@ Note:
  
 ---
 Do you remenber?
-![](images/scale.png) <!-- .element width="90%" -->
+![](images/scale_2.svg) <!-- .element width="90%" -->
 
 Source: http://sitn.hms.harvard.edu/flash/2013/pandoraviruses-relics-of-a-hidden-domain-of-life/attachment/joe3/
 
@@ -152,32 +153,30 @@ Source: http://sitn.hms.harvard.edu/flash/2013/pandoraviruses-relics-of-a-hidden
 ---
 ## Sequencing:
 
-![](images/sanger_sequencing.jpg) <!-- .element width="60%" -->
+![](images/sanger_sequencing.svg) <!-- .element width="60%" -->
 
 Source: https://lerninhalte.blogspot.com/2013/04/dna-sequenzierung-kettenabbruchmethode.html
+
+Note: 
+- Sanger: Very accurate but not feasable whole genones!
 ----
-Sanger: Very accurate but not feasable whole genones!
-----
+
 Do you konw of any genome or sequencing projects?
 ----
+
 The human genome project:
 
-![](images/timelineHGP_image2.jpg) <!-- .element width="60%" -->
-----
+![](images/timelineHGP_image2.jpg) <!-- .element width="100%" -->
 
+Note:
 Huge development:
 Next Generation Sequencing (NGS) or
 High Throughput Sequencing (HTS)
 
 ----
-![](images/190312-Genomics_HealthCare-03.png) <!-- .element width="100%" -->
-----
 
-Efford requierd to sequence a human genome
+![](images/evolution_seq_technologies.png) <!-- .element width="100%" -->
 
-----
-Nanopore sequencing:
-?
 
 ---
 ### How to identify micro-organisms?
