@@ -1,4 +1,10 @@
-### Beer is alive!
+<!-- .slide: data-background="images/DSC_6894.jpg" data-state="dim-background" -->
+
+## Beer is alive!
+
+### How to use beer for scientific outreach
+
+<br>
 
 Teresa Müller & Bérénice Batut
 
@@ -7,12 +13,25 @@ Pint of Science - Freiburg - May 2019
 </small>
 
 ---
+<!-- .slide: data-background="images/anna.jpg" -->
+
+----
+<!-- .slide: data-background="images/craft_beer.png" data-state="dim-background" -->
+### Anna loves craft beer
+
+<div class="fragment" data-fragment-index="2">
+
+![](images/craft_beer_headline.png)
+
+---
 
 ### What is a micro-organisms?
 
-![](images/scale.png) <!-- .element width="90%" -->
+![](images/scale.png) <!-- .element width="85%" -->
 
-Source: http://sitn.hms.harvard.edu/flash/2013/pandoraviruses-relics-of-a-hidden-domain-of-life/attachment/joe3/
+<small>
+[Sources](http://sitn.hms.harvard.edu/flash/2013/pandoraviruses-relics-of-a-hidden-domain-of-life/attachment/joe3/)
+</small>
 
 Note:
 
@@ -84,9 +103,7 @@ But micro-organisms are mostly beneficial in humans
 
 ----
 
-### And what about in humans?
-
-Do you think we have more micro-organism cells or human cells in our own body?
+### Do we have more micro-organism cells or <br>human cells in our own body?
 
 <div class="fragment" data-fragment-index="2">
 
@@ -109,9 +126,9 @@ Note:
 - only 10% can be cultivated
 
 ----
-### More than 90% of micro-organisms are unculturable
+<!-- .slide: data-background="images/unculturable.jpg" data-state="dim-background" -->
 
-![](images/unculturable.jpg) <!-- .element width="80%" -->
+### More than 90% of micro-organisms are unculturable
 
 ----
 ### Any other solution?
@@ -122,15 +139,16 @@ Note:
 
 ---
 ### DNA the blueprint of life
-![](images/all_live_DNA.svg) <!-- .element width="70%" -->
 
+![](images/all_live_DNA.svg) <!-- .element width="70%" -->
 
 
 Note:
 
 - DNA is the common element between organisms. 
 - But how can you determine it's difference? 
----
+
+----
 ### What is DNA?
 
 ![](images/DNA_ATGC.svg) <!-- .element width="80%" -->
@@ -143,28 +161,31 @@ Note:
 - Atoms are social
 - How can we now read the DNA?
  
+----
+
+### Do you remember?
+
+![](images/scale_2.svg) <!-- .element width="80%" -->
+
+<small>
+[Sources](http://sitn.hms.harvard.edu/flash/2013/pandoraviruses-relics-of-a-hidden-domain-of-life/attachment/joe3/)
+</small>
+
 ---
-Do you remenber?
-![](images/scale_2.svg) <!-- .element width="90%" -->
-
-Source: http://sitn.hms.harvard.edu/flash/2013/pandoraviruses-relics-of-a-hidden-domain-of-life/attachment/joe3/
-
-
----
-## Sequencing:
+### DNA Sequencing
 
 ![](images/sanger_sequencing.svg) <!-- .element width="60%" -->
 
-Source: https://lerninhalte.blogspot.com/2013/04/dna-sequenzierung-kettenabbruchmethode.html
+<small>
+[Sources](https://lerninhalte.blogspot.com/2013/04/dna-sequenzierung-kettenabbruchmethode.html)
+</small>
 
 Note: 
 - Sanger: Very accurate but not feasable whole genones!
-----
-
 Do you konw of any genome or sequencing projects?
-----
 
-The human genome project:
+----
+### The Human genome project
 
 ![](images/timelineHGP_image2.jpg) <!-- .element width="100%" -->
 
@@ -174,9 +195,9 @@ Next Generation Sequencing (NGS) or
 High Throughput Sequencing (HTS)
 
 ----
+### How much effort to sequence a human genome?
 
 ![](images/evolution_seq_technologies.png) <!-- .element width="100%" -->
-
 
 ---
 ### How to identify micro-organisms?
@@ -188,17 +209,16 @@ High Throughput Sequencing (HTS)
 
 !["Beer Decoded"](images/beerdecoded_results.png) <!-- .element width="75%"-->
 
----
+----
 
 ### Sequencing and microbiota are part of our life
 
-![](images/sequencing_microbiota_headlines.svg) <!-- .element width="80%"-->
+![](images/sequencing_microbiota_headlines.svg) <!-- .element width="60%"-->
 
-----
+---
+<!-- .slide: data-background="images/freiburg.jpg" data-state="dim-background" -->
 
-### Make biology accessible to the public
-
-science outreach
+### Anna is not alone!
 
 ----
 
@@ -208,13 +228,17 @@ science outreach
 
 [https://streetscience.community](https://streetscience.community)
 
----
+----
 <!-- .slide: data-background-color="#feed00" -->
 ### BeerDeCoded
 
 Exploring the beer micro-organisms with everybody!
 
 !["Beer Decoded"](images/beerdecoded_mantra.png) <!-- .element width="70%" -->
+
+<small>
+[http://www.genome.beer/](http://www.genome.beer/)
+</small>
 
 Note: 
 
@@ -224,23 +248,27 @@ BeerDeCoded in Lausanne
 <!-- .slide: data-background-color="#ffe92f" -->
 ### BeerDeCoded
 
-!["Beer Decoded"](images/beerdecoded_workflow.svg)
+!["Beer Decoded"](images/beerdecoded_workflow.svg) <!-- .element width="70%" -->
 
 ----
-### BeerDEcoded in Freiburg
+<!-- .slide: data-background="images/streetsciencecommunity_beerdecoded.png"-->
 
-!["Beer Decoded"](images/streetsciencecommunity_beerdecoded.svg)
+----
+<!-- .slide: data-background="images/streetsciencecommunity_beerdecoded.png" data-state="dim-background" -->
 
-Workshops for schools and citizens
+### Interested? Wants to join?
 
-[https://streetscience.community/projects/beerdecoded/](https://streetscience.community/projects/beerdecoded/)
+Next workshops
+
+- July with a school
+- Before the end of 2019 for a general audience 
+
+<i class="fas fa-globe"></i> [https://streetscience.community](https://streetscience.community)
 
 ---
+<!-- .slide: data-background="images/beerdecoded.jpg" data-state="dim-background" -->
 
-
-## Thank you
-
-Wants to join?
+## Thank You!
 
 ![](images/streetsciencecommunity_logo.png) <!-- .element width="70%" -->
 
