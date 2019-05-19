@@ -25,7 +25,7 @@ Pint of Science - Freiburg - May 2019
 
 ---
 
-### What is a micro-organisms?
+### What is a micro-organism?
 
 ![](images/scale.png) <!-- .element width="85%" -->
 
