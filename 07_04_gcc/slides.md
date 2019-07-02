@@ -1,9 +1,9 @@
-<!-- .slide: data-background="images/cover_art.png" data-state="dim-background" -->
-
 ### Galaxy and Training
 #### 2019 updates from the Galaxy Training Network
 
-Bérénice Batut - University of Freiburg, de.NBI (ELIXIR-DE)
+![](images/cover_art.png) <!-- .element width="60%" -->
+
+Bérénice Batut and the Galaxy Training Network
 
 <small>
 Galaxy Community Conference - July 2019
@@ -13,28 +13,24 @@ Galaxy Community Conference - July 2019
 <!-- .slide: data-background="images/student.jpg" -->
 
 Note:
+
 PhD student studying impact of microbiota and sex in microglya aging (she)
-
-
-----
-<!-- .slide: data-background="images/student.jpg" data-state="dim-background" -->
 
 - Generates data: RNA-seq, metagenomics, metabolomics, etc
 - No bioinformatician in her group
-
-Note:
-
 - Heard about Galaxy via one of its colleague
 - It could help her
 - but no idea how to use it to analyze its data
 
 ---
+<!-- .slide: data-background="images/learner.jpg" data-state="dim-background" -->
+
+## The learner's path
+
+----
 ### Galaxy workshops
 
-Image with:
-- map with number of workshops
-- number
-- hub screenshot
+![](images/hub_events.png) <!-- .element width="85%" -->
 
 <small>
 https://galaxyproject.org/events/
@@ -59,16 +55,15 @@ Note:
 - Bookmarked the Galaxy Training Material website
 
 ---
-<!-- .slide: data-background="images/" data-state="dim-background" -->
+<!-- .slide: data-background="images/back_to_lab.jpg" data-state="dim-background" -->
 
-### Back to lab
+## Back to lab
 
 Note:
 - Back to lab, she applied the tutorials to her own data
 
-
 ----
-### Back to lab: back to data
+### Back to data
 
 ![](images/transcriptomics.svg) <!-- .element width="90%" -->
 
@@ -77,16 +72,20 @@ Note:
 - Following the learning paths
 
 ----
-### Back to lab: learning more?
+### Learning more?
 
-![](images/tutorials_topics.png) <!-- .element width="80%" -->
+- 18 topics
+    - 4 new topics: Metabolomics, Computational Chemistry, Data manipulation, User Interface and Features
 
-Note:
-- Want to learn more
-- Many tutorials available
+- 140+ tutorials
+    - 66 new tutorials
+        - 16 new tutorials for new topics
+        - Migration of 23 admin tutorials
+        - 27 new tutorials in existing topics
+
 
 ----
-### Back to lab: learning more?
+### Learning more?
 
 ![](images/finding_tutorials.svg) <!-- .element width="85%" -->
 
@@ -109,7 +108,7 @@ Becomes more and more confident with Galaxy use and data analysis: her colleague
 - Decides to organize a small Galaxy RNA-seq workshop at her institute: a bit afraid
 
 ----
-### How to organize a workshop?
+### How to teach using Galaxy?
 
 ![](images/teaching.svg) <!-- .element width="85%" -->
 
@@ -121,9 +120,7 @@ Note:
     - Philosophies
 
 ----
-### How to run a successful workshop?
-
-![](images/tiaas.svg) <!-- .element width="85%" -->
+![](images/tiaas.png) <!-- .element width="75%" -->
 
 <small>https://galaxyproject.eu/tiaas</small>
 
@@ -132,15 +129,17 @@ Note:
 - Organization of a workshop: how to be sure the tutorials will work?  
 
 ----
-### How to run a successful workshop?
+### 60+ training - 1,200 participants
 
-![](images/workflow_testing.png) <!-- .element width="75%" -->
+![](images/tiaas_stats.svg) <!-- .element width="90%" -->
 
 
-<small>https://github.com/usegalaxy-eu/workflow-testing</small>
+<small>https://galaxyproject.eu/tiaas</small>
 
 ---
-## Creating content?
+<!-- .slide: data-background="images/contributing.jpg" data-state="dim-background" -->
+
+## Becoming a contributor
 
 Note:
 
@@ -149,17 +148,9 @@ Got more requests to have workshops. But found also that some tutorials are miss
 - Decides to create new tutorials
 
 ----
-### A Training Development Kit
-
-![](images/tdk.png) <!-- .element width="100%" -->
-
-Note:
-
-- Check the contributing topic and found the Training Development Kit
-
-
-----
 ### Online CoFest and community calls
+
+![](images/cofests.png) <!-- .element width="60%" -->
 
 - Every 3 months
 - One day of CoFest
@@ -171,7 +162,23 @@ Note:
 - Attend one of the online CoFest
 
 ----
+### A Training Development Kit
+
+![](images/tdk.png) <!-- .element width="100%" -->
+
+Note:
+
+- Check the contributing topic and found the Training Development Kit
+
+----
+### Feedbacks
+
+![](images/feedback.png) <!-- .element width="85%" -->
+
+----
 ### Community of contributors
+
+120+ contributors - 46 new ones
 
 ![](images/hall_of_fame.png) <!-- .element width="90%" -->
 
@@ -185,36 +192,35 @@ Note:
 
 ### 2019 updates
 
-- New topics: Metabolomics, Galaxy tips and tricks, Computational chemistry
-- New tutorials: admin migration, single-cell, machine learning
-- Learning paths
-- Levels
-- Translation
-- Search box
+![](images/summary.png) <!-- .element width="100%" -->
+
+Note:
+
+- New content: 4 new topics, 66 new tutorials
+- Features for users
+    - Learning paths
+    - Levels
+    - Translation
+    - Search box
 - Resources about teaching and hosting Galaxy trainings
 - TiaaS
 - Workflow testing
 - Online CoFest and community calls
 - Training Development Kit with Planemo
+- Feedbacks
 
 ---
 ## Thank you!
 
-![](images/hall_of_fame.png) <!-- .element width="100%" -->
+![](images/hall_of_fame.png) <!-- .element width="80%" -->
 
-<div id="left">
-<section style="text-align: right; margin-right: 2em;">
-![](images/qr-gtn-darkblue.png) <!-- .element width="50%" -->
-</section>
-</div>
+[training.galaxyproject.org](https://training.galaxyproject.org)
 
-<div id="right">
-<section style="text-align: left;">
-<i class="fab fa-github"></i> [github.com/galaxyproject/training-material](http://github.com/galaxyproject/training-material)
+![](images/sponsors.png) <!-- .element width="50%" -->
 
-![](images/sponsors.png) <!-- .element width="100%" -->
-</section>
-</div>
 
 ---
-Summary with small screenshots of the updates
+
+### 2019 updates
+
+![](images/summary.png) <!-- .element width="100%" -->

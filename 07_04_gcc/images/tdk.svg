@@ -17,9 +17,10 @@
    version="1.1"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="tdk.svg"
-   inkscape:export-filename="/Users/bebatut/Documents/com/talks/talk_slides/18/11_20_egd/images/infra.png"
+   inkscape:export-filename="/Users/bebatut/Documents/com/talks/2019/07_04_gcc/images/tdk.png"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-ydpi="90"
+   enable-background="new">
   <defs
      id="defs4">
     <marker
@@ -3220,6 +3221,16 @@
          result="composite2"
          id="feComposite7044-4-7-2" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2748">
+      <feBlend
+         inkscape:collect="always"
+         mode="multiply"
+         in2="BackgroundImage"
+         id="feBlend2750" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -3228,14 +3239,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="676.82196"
+     inkscape:zoom="0.7"
+     inkscape:cx="733.96481"
      inkscape:cy="327.60107"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="756"
+     inkscape:window-width="1414"
+     inkscape:window-height="909"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -3267,7 +3278,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(4054.8941,-930.99502)">
+     transform="translate(4054.8941,-930.99502)"
+     style="filter:url(#filter2748)">
     <g
        id="g5120-3-7-4-3"
        transform="translate(182.7783,2861.6595)" />
