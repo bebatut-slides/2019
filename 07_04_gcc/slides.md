@@ -74,12 +74,12 @@ Note:
 ----
 ### Learning more?
 
-- 18 topics
-    - 4 new topics: Metabolomics, Computational Chemistry, Data manipulation, User Interface and Features
+- 19 topics
+    - 5 new topics: Metabolomics, Computational Chemistry, Data manipulation, User Interface and Features, Ecological data analysis 
 
 - 140+ tutorials
-    - 66 new tutorials
-        - 16 new tutorials for new topics
+    - 67 new tutorials
+        - 17 new tutorials for new topics
         - Migration of 23 admin tutorials
         - 27 new tutorials in existing topics
 
