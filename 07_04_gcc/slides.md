@@ -78,8 +78,8 @@ Note:
     - 5 new topics: Metabolomics, Computational Chemistry, Data manipulation, User Interface and Features, Ecological data analysis 
 
 - 140+ tutorials
-    - 67 new tutorials
-        - 17 new tutorials for new topics
+    - 68 new tutorials
+        - 18 new tutorials for new topics
         - Migration of 23 admin tutorials
         - 27 new tutorials in existing topics
 
