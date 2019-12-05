@@ -72,6 +72,11 @@ Note:
 https://training.galaxyproject.org/
 </small>
 
+----
+### Training to reach users
+
+![](images/user_reach.png) <!-- .element width="90%" -->
+
 ---
 <!-- .slide: data-background="images/learner_to_teacher.jpg" data-state="dim-background" -->
 
@@ -106,6 +111,11 @@ Note:
 Note:
 
 - Organization of a workshop: how to be sure the tutorials will work?  
+
+----
+### Training to reach instructors
+
+![](images/instructor_reach.png) <!-- .element width="90%" -->
 
 ---
 <!-- .slide: data-background="images/contributing.jpg" data-state="dim-background" -->
@@ -155,19 +165,22 @@ Note:
 
 - Contribute and join the community of contributors
 
+----
+### Training to reach contributors
+
+![](images/contributor_reach.png) <!-- .element width="90%" -->
+
 ---
 
 ### Training as community outreach
 
-![](images/summary.png) <!-- .element width="90%" -->
+![](images/summary.png) <!-- .element width="100%" -->
 
 ---
 ## Thank you!
 
 ![](images/summary.png) <!-- .element width="60%" -->
 
-<small>
 <i class="fab fa-github"></i> [training.galaxyproject.org](https://training.galaxyproject.org) <br>
 <i class="fab fa-github"></i> [github.com/galaxyproject/training-material](http://github.com/galaxyproject/training-material) <br>
 <i class="fab fa-twitter"></i> [@gxytraining](https://twitter.com/gxytraining/)
-</small>
